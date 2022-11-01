@@ -1,0 +1,407 @@
+/*
+    Created on : 02/08/2015, 07:30:00 •
+    Author     : Ahmed Mohamed 
+    Theme Name : Soft4U
+    Description: Styles Of rebatecodes.com .
+                 Responsive web design (RWD) is an approach to web design aimed at crafting sites to provide an optimal viewing and interaction experience—easy reading and navigation with a minimum of resizing, panning, and scrolling—across a wide range of devices (from desktop computer monitors to mobile phones)
+    Version    : 1.0
+*/
+/*------------------------------------------------------------------------------*/
+/*                    width : 1200px 
+/*------------------------------------------------------------------------------*/
+@media (min-width: 1200px) {
+    #menu-toggle{
+        right: 20px;
+    }
+	.boxed,.boxed-2 {
+		width: 1200px !important;
+	}
+	.grid_1200.boxed #header.fixed-nav,.grid_1200.boxed-2 #header.fixed-nav {
+		width: 1200px;
+	}
+    
+}
+/*------------------------------------------------------------------------------*/
+/*                    width : 991px 
+/*------------------------------------------------------------------------------*/
+@media (min-width: 991px) and (max-width: 1200px) {
+    #menu-toggle{
+        right: 20px;
+    }
+	.logo span {
+		display: none;
+	}
+	#header.header-2 .navigation > ul > li {
+		margin-right: 5px;
+	}
+	#header.header-2 .navigation > ul > li > a {
+		padding: 0 1px;
+	}
+	
+	.thumb-info .thumb-info-title {
+		font-size: 14px;
+	}
+   
+}
+/*------------------------------------------------------------------------------*/
+/*                    width : 990px 
+/*------------------------------------------------------------------------------*/
+@media (min-width: 990px) {
+	.boxed,.boxed-2 {
+		width: 990px;
+	}
+    
+    
+}
+/*------------------------------------------------------------------------------*/
+/*                    width : 768px 
+/*------------------------------------------------------------------------------*/
+@media (min-width: 768px) and (max-width: 992px) {
+    .sort-destination.full-width .isotope-item {
+        width: 50%;
+    }
+    #itemdescription{
+        top: 2em;
+        left: 1em;
+    }
+	.boxed,.boxed-2 {
+		width: 100%;
+		margin: 0;
+	}
+	.boxed .slideshow .tparrows.tp-leftarrow,.boxed-2 .slideshow .tparrows.tp-leftarrow {
+		left: -20px !important;
+	}
+	.boxed .slideshow .tparrows.tp-rightarrow,.boxed-2 .slideshow .tparrows.tp-rightarrow {
+		right: -20px !important;
+	}
+	
+	.crumbs {
+		display: none;
+	}
+	.slide-h2 h2 {
+		font-size: 30px !important;
+	}
+	.slide-h3 h2 {
+		font-size: 25px !important;
+	}
+	.slide-h2 h2,.slide-h3 h2,.slide-p p {
+		padding: 0 40px !important;
+	}
+	.col-5.isotope-item,.blog-item.col-md-4,.member-item.col-md-3,.member-item.col-md-4 {
+		float: left;
+		width: 50%;
+	}
+	.col-md-2.client-item {
+		float: left;
+		width: 33.33333%;
+	}
+	.member-item img {
+		width: 100%;
+		height: auto;
+	}
+	.copyrights {
+		float: none;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.navigation-footer {
+		float: none;
+		text-align: center;
+	}
+	.navigation-footer > ul > li {
+		float: none;
+		display: inline-block;
+	}
+	.box-icon {
+		margin-bottom: 30px;
+	}
+    
+ 
+}
+/*------------------------------------------------------------------------------*/
+/*                    Width : 452px
+/*------------------------------------------------------------------------------*/
+@media only screen and (min-width: 452px) and (max-width: 767px) {
+	body {
+		width: 100%;
+	}
+	.boxed,.boxed-2 {
+		width: 100%;
+		margin: 0;
+	}
+	.boxed .slideshow .tparrows.tp-leftarrow,.boxed-2 .slideshow .tparrows.tp-leftarrow {
+		left: -20px !important;
+	}
+	.boxed .slideshow .tparrows.tp-rightarrow,.boxed-2 .slideshow .tparrows.tp-rightarrow {
+		right: -20px !important;
+	}
+	#header-top {
+		height: auto;
+		text-align: center;
+	}
+	.phone-email {
+		float: none;
+		display: inline-block;
+		margin-bottom: 20px;
+	}
+	#header-top .social-ul {
+		float: none;
+	}
+	#header-top .social-ul li,#header-top .social-ul li a {
+		float: none;
+		display: inline-block;
+		margin-left: -2px;
+	}
+	#header-top .social-ul li a {
+		border-top: 1px solid #eae9e9;
+	}
+	#header-top.header-top-2 .social-ul li a {
+		border-top-color: #646464;
+	}
+	#header-top.header-top-4 .social-ul li a {
+		border-top-color: #e9e8e8;
+	}
+	#header {
+		height: auto;
+		padding-bottom: 20px;
+	}
+	.logo a {
+		display: block;
+		text-align: center;
+		float: none;
+	}
+	.logo span {
+		display: none;
+	}
+	#header.header-4::after {
+		height: 0;
+	}
+	.header-search {
+		margin: 20px auto 20px;
+		float: none;
+		text-align: center;
+		line-height: normal;
+	}
+	.header-search-a {
+		float: none;
+		display: inline-block;
+	}
+	.header-search-form {
+		width: 100%;
+		padding: 10px;
+	}
+	.header-search-form input {
+		width: 100%;
+		margin: 0;
+	}
+	.navigation_mobile {
+		float: none;
+		margin-right: auto;
+		margin-left: auto;
+		display: block;
+	}
+	.crumbs {
+		display: none;
+	}
+	.slide-h2 h2 {
+		font-size: 30px !important;
+	}
+	.slide-h2 h2 {
+		font-size: 25px !important;
+	}
+	.slide-h2 h2,.slide-h3 h2,.slide-p p {
+		padding: 0 40px !important;
+	}
+	.member-item.col-md-3,.member-item.col-md-4 {
+		float: left;
+		width: 50%;
+	}
+	.col-md-2.client-item {
+		float: left;
+		width: 33.333%;
+	}
+	.member-item img {
+		width: 100%;
+		height: auto;
+	}
+	.copyrights {
+		float: none;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.navigation-footer {
+		float: none;
+		text-align: center;
+	}
+	.navigation-footer > ul > li {
+		float: none;
+		display: inline-block;
+	}
+	.box-icon {
+		margin-bottom: 30px;
+	}
+    
+    .material-card.mc-active .mc-description {
+    position: relative;
+    top: auto;
+    right: auto;
+    left: auto;
+    padding: 50px 30px 70px 30px;
+    bottom: 0;
+  }
+    .material-card.mc-active .mc-content {
+    position: relative;
+    margin-right: 16px;
+  }
+    .material-card.mc-active {
+    padding-bottom: 0;
+    height: auto;
+  }
+    
+}
+/*------------------------------------------------------------------------------*/
+/*                    width : 479px 
+/*------------------------------------------------------------------------------*/
+@media only screen and (max-width: 479px) {
+	body {
+		width: 100%;
+	}
+	.boxed,.boxed-2 {
+		width: 100%;
+		margin: 0;
+	}
+	.boxed .slideshow .tparrows.tp-leftarrow,.boxed-2 .slideshow .tparrows.tp-leftarrow {
+		left: -20px !important;
+	}
+	.boxed .slideshow .tparrows.tp-rightarrow,.boxed-2 .slideshow .tparrows.tp-rightarrow {
+		right: -20px !important;
+	}
+    .sort-destination.full-width .isotope-item {
+		clear: both;
+		float: none;
+        width: 100%;
+	}
+	#header-top {
+		height: auto;
+		text-align: center;
+	}
+	.phone-email {
+		float: none;
+		display: inline-block;
+		margin-bottom: 20px;
+	}
+	#header-top .social-ul {
+		float: none;
+	}
+	#header-top .social-ul li,#header-top .social-ul li a {
+		float: none;
+		display: inline-block;
+		margin-left: -2px;
+	}
+	#header-top .social-ul li a {
+		border-top: 1px solid #eae9e9;
+	}
+	#header-top.header-top-2 .social-ul li a {
+		border-top-color: #646464;
+	}
+	#header-top.header-top-4 .social-ul li a {
+		border-top-color: #e9e8e8;
+	}
+	#header {
+		height: auto;
+		padding-bottom: 20px;
+	}
+	.logo a {
+		display: block;
+		text-align: center;
+		float: none;
+	}
+	.logo span {
+		display: none;
+	}
+	.header-search {
+		margin: 20px auto 20px;
+		float: none;
+		text-align: center;
+		line-height: normal;
+	}
+	.header-search-a {
+		float: none;
+		display: inline-block;
+	}
+	.header-search-form {
+		width: 100%;
+		padding: 10px;
+	}
+	.header-search-form input {
+		width: 100%;
+		margin: 0;
+	}
+	.navigation_mobile {
+		float: none;
+		margin-right: auto;
+		margin-left: auto;
+		display: block;
+		width: 100%;
+	}
+	
+	.slide-h2 h2 {
+		font-size: 17px !important;
+	}
+	.slide-h3 h2 {
+		font-size: 15px !important;
+	}
+	.slide-h2 h2,.slide-h3 h2 {
+		padding: 0 40px !important;
+	}
+	.slide-p p {
+		display: none;
+	}
+	.slide-a a {
+		font-size: 7px;
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	..member-item.col-md-3,.member-item.col-md-4{
+		float: left;
+		width: 100%;
+	}
+	.col-md-2.client-item {
+		float: left;
+		width: 50%;
+	}
+	.member-item img {
+		width: 100%;
+		height: auto;
+	}
+	.copyrights {
+		float: none;
+		text-align: center;
+		margin-bottom: 20px;
+		line-height: 22px;
+	}
+	.navigation-footer {
+		float: none;
+		text-align: center;
+	}
+	.navigation-footer > ul > li {
+		float: none;
+		display: inline-block;
+	}
+	.box-icon {
+		margin-bottom: 30px;
+	}
+    .spinner{
+        margin: 50% auto;
+    }
+    #itemdescription{
+        top: 2em;
+        left: 1em;
+    }
+    #itemlist {
+    margin: 3em 150px;
+  }
+}
+/*------------------------------------------------------------------------------*/
+/*                               The End
+/*------------------------------------------------------------------------------*/

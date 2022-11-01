@@ -1,0 +1,26 @@
+::-moz-selection {
+    background: #00A0FF;
+}
+::selection {
+    background: #00A0FF;
+}
+.header-search-a:hover,.btn btn-primary,.sidebar-nav li a:hover,.thumb-info .thumb-info-action-icon,.circle_img_projects,.progressbar-percent,.the_wrapper ul li,.header-search-active .header-search-a,.header-search-form,.navigation li ul li a:hover,.navigation li ul li.current_page_item > a,.navigation-2.navigation li:hover ul,.widget-about-2 > ul > li:hover > i,.pagination a:hover,.pagination li.pagination-prev a:hover,.pagination li.pagination-next a:hover,.box-icon:hover .box-icon-i-2,.bxslider-slide .bx-controls-direction a:hover,.pricing-tables:hover .pricing-header,.section-3 .sections-title-h3:after,.portfolio-hover,.portfolio-content > i,.button-1:hover,.accordion .accordion-title.active a i,.button-1.button-2,.member-hover,.blockquote-3,.section-4,.button-3,.button-4:hover,.slideshow .tparrows:hover,.go-up,.the_wrapper ul li.inactive:hover,#header-top.header-top-3,.navigation > ul > li:hover li:hover > a {
+	background-color: #00A0FF;
+}
+.color,.phone-email i,#itemdescription span,.navigation > ul > li:hover > a,.navigation > ul > li.current_page_item > a,blockquote,.qoute,[class^="list-ul-"] li:before, [class*="list-ul-"] li:before,.navigation-2.navigation li ul li a:hover,.navigation-2.navigation li ul li.current_page_item > a,#footer a:hover,#footer-bottom a,#footer-bottom .navigation-footer > ul > li > a:hover,.sections-title-h3 h3,.box-icon h5,.box-icon p a:hover,.box-icon-i-2 i,.box-icon:hover .box-icon-i,.button-1,.portfolio-meta h6 a:hover,.accordion .accordion-title.active a,.head-title h6,.head-title h6,.blog-content h6,.blog-content h6 a,.blog-content p a:hover,.blog-meta div a:hover,.pricing-content ul li span,.pricing-header h3,.pricing-header a:hover,.testimonial-name span:first-child,.button-1.button-2:hover,.testimonial-item-2 .testimonial-content p,.crumbs a:hover,.breadcrumbs h4,.box-icon.box-icon-3 p a,.member-content h5,.callout > h6,.pricing-content ul li span,.widget .widget-title h6,.widget .widget-post-content h6 a:hover,.widget ul li a:hover,.widget ul li a:hover span,.post-tag a:hover,.post-author-content h6,.section-title h6,.commentlist li.comment .comment-body .comment-text .author span,.comment-form .form-input i,.navigation-2.navigation > ul > li:hover li:hover > a {
+	color: #00A0FF;
+}
+.navigation-2.navigation li ul li a,#header-top.header-top-3,#header.header-3 .navigation > ul > li.current_page_item,.navigation-2.navigation li.mega-menu ul li:last-child a,.dark-s .navigation li.mega-menu ul li:last-child a {
+	border-bottom-color: #00A0FF;
+}
+
+.header-search-a:hover,.header-search-active .header-search-a,.button-1:hover,.button-1.button-2,.pagination a:hover,.pagination li.pagination-prev a:hover,.pagination li.pagination-next a:hover {
+	border-color: #00A0FF;
+}
+.navigation > ul > li:hover,.navigation > ul > li.current_page_item {
+	border-top-color: #00A0FF;
+}
+/**/
+.phone-email:hover i{
+    color: #FF6C00;
+}
